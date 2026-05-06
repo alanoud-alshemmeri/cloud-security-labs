@@ -10,7 +10,7 @@ Hands-on labs and projects completed as part of the **Google Cloud Cybersecurity
 
 | Course | Topic | Status | Folder |
 |--------|-------|--------|--------|
-| Course 1 | Introduction to Security Principles in Cloud Computing | 🔄 In Progress | `/course-1-security-principles` |
+| Course 1 | Introduction to Security Principles in Cloud Computing | ✅ Completed | `/course-1-security-principles` |
 | Course 2 | Strategies for Cloud Security Risk Management | ⏳ Not Started | `/course-2-risk-management` |
 | Course 3 | Cloud Security Risks: Identify and Protect Against Threats | ⏳ Not Started | `/course-3-threat-protection` |
 | Course 4 | Detect, Respond, and Recover from Cloud Cybersecurity Attacks | ⏳ Not Started | `/course-4-incident-response` |
